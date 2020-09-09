@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/test2/static/css/main.ebaec4f2.chunk.css",
+    "main.js": "/test2/static/js/main.b5f37f89.chunk.js",
+    "main.js.map": "/test2/static/js/main.b5f37f89.chunk.js.map",
+    "runtime-main.js": "/test2/static/js/runtime-main.9d53dc08.js",
+    "runtime-main.js.map": "/test2/static/js/runtime-main.9d53dc08.js.map",
+    "static/js/2.87338a27.chunk.js": "/test2/static/js/2.87338a27.chunk.js",
+    "static/js/2.87338a27.chunk.js.map": "/test2/static/js/2.87338a27.chunk.js.map",
+    "index.html": "/test2/index.html",
+    "precache-manifest.6ced59b7535ffb22e9bc274d4e1e5df1.js": "/test2/precache-manifest.6ced59b7535ffb22e9bc274d4e1e5df1.js",
+    "service-worker.js": "/test2/service-worker.js",
+    "static/css/main.ebaec4f2.chunk.css.map": "/test2/static/css/main.ebaec4f2.chunk.css.map",
+    "static/js/2.87338a27.chunk.js.LICENSE.txt": "/test2/static/js/2.87338a27.chunk.js.LICENSE.txt",
+    "static/media/eye-off.svg": "/test2/static/media/eye-off.524af6ec.svg",
+    "static/media/eye.svg": "/test2/static/media/eye.150b968e.svg",
+    "static/media/grid.svg": "/test2/static/media/grid.eb5dc4c7.svg",
+    "static/media/heart.svg": "/test2/static/media/heart.b1193903.svg",
+    "static/media/list.svg": "/test2/static/media/list.26fb9fab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d53dc08.js",
+    "static/js/2.87338a27.chunk.js",
+    "static/css/main.ebaec4f2.chunk.css",
+    "static/js/main.b5f37f89.chunk.js"
+  ]
+}
