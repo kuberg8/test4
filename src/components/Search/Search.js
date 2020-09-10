@@ -63,7 +63,7 @@ function Search(props) {
 	let searchData = props.searchData.map( item => {
 		return (
 			<div className={sortName === 'list' ? sr.flex : sr.box}>
-				<img src={sortName === 'list' ? item.snippet.thumbnails.default.url : item.snippet.thumbnails.high.url} />
+				<img src={item.snippet.thumbnails ? sortName === 'list' ? item.snippet.thumbnails.default.url : item.snippet.thumbnails.high.url : video} />
 				<span className={sr.title}>
 					<h3>{item.snippet.title}</h3>
 					<span className={sr.subtitle}>
